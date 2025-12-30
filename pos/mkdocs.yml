@@ -52,20 +52,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Functional Requirements:
-    - Overview: functional-requirements.md
-    - Project Overview: functional-requirements.md#project-overview
-    - System Architecture: functional-requirements.md#system-architecture
-    - User Roles: functional-requirements.md#user-roles-and-permissions
-    - POS Module: functional-requirements.md#point-of-sale-pos-module
-    - Inventory Management: functional-requirements.md#inventory-management-module
-    - Sales & Reporting: functional-requirements.md#sales-and-reporting-module
-    - User Management: functional-requirements.md#user-management-module
-    - Audit & Logging: functional-requirements.md#audit-and-activity-logging
-    - System Configuration: functional-requirements.md#system-configuration-and-setup
-    - Hardware Integration: functional-requirements.md#hardware-integration-module
-    - Business Rules: functional-requirements.md#business-rules
-    - Non-Functional Requirements: functional-requirements.md#non-functional-requirements
+  - Functional Requirements: functional-requirements.md
 
 plugins:
   - search
