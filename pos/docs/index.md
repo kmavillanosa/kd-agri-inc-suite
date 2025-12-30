@@ -81,9 +81,9 @@ This documentation is organized into the following sections:
 
 ## Stakeholders
 
-- **David Grench**: Head of Corporation, General Decision Maker
-- **Kathlyn Joy Pasion**: Board Member/Secretary
-- **Kim Avillanosa**: Software Engineer, Board Member, Technical Lead
+- **[Redacted]**: Head of Corporation, General Decision Maker
+- **[Redacted]**: Board Member/Secretary
+- **[Redacted]**: Board Member / Developer
 
 ---
 

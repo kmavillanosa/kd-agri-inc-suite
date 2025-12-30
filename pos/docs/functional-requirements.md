@@ -16,9 +16,9 @@ This document defines the functional requirements for a Point of Sale (POS) and 
 
 ### 1.3 Stakeholders
 
-- **David Grench**: Head of Corporation, General Decision Maker
-- **Kathlyn Joy Pasion**: Board Member/Secretary
-- **Kim Avillanosa**: Software Engineer, Board Member, Technical Lead
+- **[Redacted]**: Head of Corporation, General Decision Maker
+- **[Redacted]**: Board Member/Secretary
+- **[Redacted]**: Board Member / Developer
 
 ## 2. System Architecture
 
