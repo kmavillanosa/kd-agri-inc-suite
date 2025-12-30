@@ -54,18 +54,18 @@ nav:
   - Home: index.md
   - Functional Requirements:
     - Overview: functional-requirements.md
-    - Project Overview: functional-requirements.md#1-project-overview
-    - System Architecture: functional-requirements.md#2-system-architecture
-    - User Roles: functional-requirements.md#3-user-roles-and-permissions
-    - POS Module: functional-requirements.md#41-point-of-sale-pos-module
-    - Inventory Management: functional-requirements.md#42-inventory-management-module
-    - Sales & Reporting: functional-requirements.md#43-sales-and-reporting-module
-    - User Management: functional-requirements.md#44-user-management-module
-    - Audit & Logging: functional-requirements.md#45-audit-and-activity-logging
-    - System Configuration: functional-requirements.md#48-system-configuration-and-setup
-    - Hardware Integration: functional-requirements.md#47-hardware-integration-module
-    - Business Rules: functional-requirements.md#6-business-rules
-    - Non-Functional Requirements: functional-requirements.md#5-non-functional-requirements
+    - Project Overview: functional-requirements.md#project-overview
+    - System Architecture: functional-requirements.md#system-architecture
+    - User Roles: functional-requirements.md#user-roles-and-permissions
+    - POS Module: functional-requirements.md#point-of-sale-pos-module
+    - Inventory Management: functional-requirements.md#inventory-management-module
+    - Sales & Reporting: functional-requirements.md#sales-and-reporting-module
+    - User Management: functional-requirements.md#user-management-module
+    - Audit & Logging: functional-requirements.md#audit-and-activity-logging
+    - System Configuration: functional-requirements.md#system-configuration-and-setup
+    - Hardware Integration: functional-requirements.md#hardware-integration-module
+    - Business Rules: functional-requirements.md#business-rules
+    - Non-Functional Requirements: functional-requirements.md#non-functional-requirements
 
 plugins:
   - search

@@ -112,9 +112,9 @@ This document defines the functional requirements for a Point of Sale (POS) and 
 - **FR-POS-016**: System shall display pricing mode (retail/wholesale) during checkout
 - **FR-POS-017**: System shall prevent changing pricing mode once checkout is initiated
 - **FR-POS-018**: System shall support multiple payment methods:
-  - Cash
-  - Credit/Debit cards (via card reader integration)
-  - Mobile payments (QR code, NFC, etc.)
+- Cash
+- Credit/Debit cards (via card reader integration)
+- Mobile payments (QR code, NFC, etc.)
 - **FR-POS-019**: System shall calculate change for cash transactions
 - **FR-POS-020**: System shall process payment and complete sale
 - **FR-POS-021**: System shall automatically update inventory upon sale completion
@@ -131,15 +131,15 @@ This document defines the functional requirements for a Point of Sale (POS) and 
 
 - **FR-POS-030**: System shall generate invoice/receipt upon sale completion
 - **FR-POS-031**: Receipt shall include:
-  - Business name and contact information
-  - Transaction date and time
-  - Transaction ID/Number
-  - List of items purchased with quantities and prices
-  - Pricing mode indicator (Retail/Wholesale)
-  - Discounts applied (if any)
-  - Subtotal, taxes (if applicable), and total
-  - Payment method and amount
-  - Change given (for cash transactions)
+- Business name and contact information
+- Transaction date and time
+- Transaction ID/Number
+- List of items purchased with quantities and prices
+- Pricing mode indicator (Retail/Wholesale)
+- Discounts applied (if any)
+- Subtotal, taxes (if applicable), and total
+- Payment method and amount
+- Change given (for cash transactions)
 - **FR-POS-032**: System can generate and print physical receipt upon sale completion (optional, configurable)
 - **FR-POS-033**: System shall support digital receipt display on screen
 - **FR-POS-034**: System shall allow reprinting of receipts for completed transactions
@@ -209,17 +209,17 @@ This document defines the functional requirements for a Point of Sale (POS) and 
 
 - **FR-INV-012**: Store owners shall be able to add new products to catalog
 - **FR-INV-013**: Store owners shall be able to edit product information:
-  - Product name
-  - Description
-  - Retail price
-  - Wholesale price
-  - Category
-  - Initial stock quantity
-  - Low stock threshold
-  - Barcode/SKU
-  - Unit of measure (pieces, kg, liters, etc.)
-  - Expiration date (if applicable)
-  - Batch/lot number (if applicable)
+- Product name
+- Description
+- Retail price
+- Wholesale price
+- Category
+- Initial stock quantity
+- Low stock threshold
+- Barcode/SKU
+- Unit of measure (pieces, kg, liters, etc.)
+- Expiration date (if applicable)
+- Batch/lot number (if applicable)
 - **FR-INV-014**: Store owners shall be able to deactivate/remove products
 - **FR-INV-015**: System shall support product categories
 - **FR-INV-016**: System shall support product images
@@ -246,12 +246,12 @@ This document defines the functional requirements for a Point of Sale (POS) and 
 
 - **FR-SALES-001**: System shall record all completed transactions
 - **FR-SALES-002**: System shall track sales by:
-  - Date and time
-  - Cashier/user
-  - Payment method
-  - Product/item
-  - Transaction status (completed, voided, cancelled)
-  - Pricing mode (retail/wholesale)
+- Date and time
+- Cashier/user
+- Payment method
+- Product/item
+- Transaction status (completed, voided, cancelled)
+- Pricing mode (retail/wholesale)
 - **FR-SALES-003**: System shall maintain complete sales history including voided, cancelled, and refunded transactions
 - **FR-SALES-004**: System shall distinguish between voided, refunded, and active transactions in sales reports
 - **FR-SALES-005**: System shall allow filtering of sales reports to exclude voided/refunded transactions
@@ -260,22 +260,22 @@ This document defines the functional requirements for a Point of Sale (POS) and 
 
 - **FR-SALES-006**: Store owners shall be able to view total sales
 - **FR-SALES-007**: System shall provide sales reports by:
-  - Daily sales
-  - Weekly sales
-  - Monthly sales
-  - Custom date range
+- Daily sales
+- Weekly sales
+- Monthly sales
+- Custom date range
 - **FR-SALES-008**: System shall calculate and display:
-  - Total revenue
-  - Number of transactions
-  - Average transaction value
-  - Sales by product
-  - Sales by category
-  - Sales by payment method
-  - Sales by pricing mode (retail vs wholesale)
-  - Retail revenue vs wholesale revenue
-  - Discounts applied
-  - Taxes collected
-  - Refunds processed
+- Total revenue
+- Number of transactions
+- Average transaction value
+- Sales by product
+- Sales by category
+- Sales by payment method
+- Sales by pricing mode (retail vs wholesale)
+- Retail revenue vs wholesale revenue
+- Discounts applied
+- Taxes collected
+- Refunds processed
 - **FR-SALES-009**: System shall support export of sales data (CSV, PDF)
 - **FR-SALES-010**: System shall provide sales reports by cashier/user
 
@@ -305,15 +305,15 @@ This document defines the functional requirements for a Point of Sale (POS) and 
 
 - **FR-AUDIT-001**: System shall log all user actions
 - **FR-AUDIT-002**: Logs shall include:
-  - User identification
-  - Action performed
-  - Timestamp
-  - Affected data/records
+- User identification
+- Action performed
+- Timestamp
+- Affected data/records
 - **FR-AUDIT-003**: Administrators shall be able to view audit logs
 - **FR-AUDIT-004**: System shall support filtering audit logs by:
-  - User
-  - Date range
-  - Action type
+- User
+- Date range
+- Action type
 - **FR-AUDIT-005**: System shall maintain audit log history
 - **FR-AUDIT-006**: System shall log all order cancellations with user and timestamp
 - **FR-AUDIT-007**: System shall log all transaction voids with user, timestamp, reason, and affected transaction details
