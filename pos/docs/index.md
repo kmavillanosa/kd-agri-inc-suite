@@ -75,9 +75,9 @@ This documentation is organized into the following sections:
 
 ## Quick Links
 
-- [Functional Requirements](functional-requirements.md) - Complete system specification
-- [Project Overview](functional-requirements.md#project-overview) - Business context and stakeholders
-- [System Architecture](functional-requirements.md#system-architecture) - Technical details
+- [Functional Requirements](functional-requirements/) - Complete system specification
+- [Project Overview](functional-requirements/#1-project-overview) - Business context and stakeholders
+- [System Architecture](functional-requirements/#2-system-architecture) - Technical details
 
 ## Stakeholders
 
