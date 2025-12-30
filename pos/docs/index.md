@@ -16,7 +16,7 @@ This system is designed to operate in a remote location with limited connectivit
 
 ## Key Features
 
-### 🛒 Point of Sale
+### Point of Sale
 - Dynamic retail and wholesale pricing
 - Multiple payment methods (Cash, Card, Mobile)
 - Barcode scanning support
@@ -24,25 +24,25 @@ This system is designed to operate in a remote location with limited connectivit
 - Refund processing
 - Receipt generation and printing
 
-### 📦 Inventory Management
+### Inventory Management
 - Real-time stock tracking
 - Low stock alerts
 - Product variants and batch tracking
 - Supplier and purchase order management
 - Expiration date tracking
 
-### 📊 Sales & Reporting
+### Sales & Reporting
 - Daily, weekly, monthly, and custom date range reports
 - Sales by product, category, payment method, and pricing mode
 - Export capabilities (CSV, PDF)
 - Transaction history and audit trails
 
-### 👥 User Management
+### User Management
 - Three role levels: Cashier, Store Owner, Administrator
 - Role-based permissions
 - Activity tracking and audit logs
 
-### 🔌 Hardware Integration
+### Hardware Integration
 - Barcode scanners (USB, wireless, mobile camera)
 - Receipt printers (thermal, impact, network)
 - Cash drawers
@@ -58,11 +58,11 @@ This system is designed to operate in a remote location with limited connectivit
 
 ## System Characteristics
 
-- ✅ **Offline-First**: Operates fully without internet connection
-- ✅ **Web-Based**: Accessible on any device with a browser
-- ✅ **Responsive Design**: Optimized for mobile, tablet, and desktop
-- ✅ **Progressive Web App**: Can be installed on mobile devices
-- ✅ **On-Premise**: No cloud dependency required
+- **Offline-First**: Operates fully without internet connection
+- **Web-Based**: Accessible on any device with a browser
+- **Responsive Design**: Optimized for mobile, tablet, and desktop
+- **Progressive Web App**: Can be installed on mobile devices
+- **On-Premise**: No cloud dependency required
 
 ## Documentation Structure
 
